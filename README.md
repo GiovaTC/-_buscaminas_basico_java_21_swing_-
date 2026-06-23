@@ -1,7 +1,9 @@
 # -_buscaminas_basico_java_21_swing_- :.
 # Buscaminas:
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/86fa5cf0-e2cd-4cf0-af14-d222b823eb09" />  
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/86fa5cf0-e2cd-4cf0-af14-d222b823eb09" />    
+
+<img width="1275" height="1079" alt="image" src="https://github.com/user-attachments/assets/b1b7a402-e4ea-4bed-b7a1-11eeb04631cc" />    
 
 ```
 
