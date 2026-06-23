@@ -128,9 +128,13 @@ public class VentanaPrincipal extends JFrame {
                 }
             }
         }
-    }   
-
-    private void desactivar() {
     }
 
+    private void desactivar() {
+        for (int i=0;i<FILAS;i++){
+            for(int j=0;j<COLUMNAS;j++){
+                botones[i][j].setEnabled(false);
+            }
+        }
+    }   
 }
